@@ -1,1 +1,3 @@
 We are learning Git today
+
+We created a new branch, called 'Kay'
